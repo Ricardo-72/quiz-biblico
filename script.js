@@ -1,7 +1,7 @@
 let titulo = document.querySelector('h1')
 let instrucoes = document.querySelector('#instrucoes')
 let aviso = document.querySelector('#aviso')
-//let respostaEsta = document.querySelector('#respostaEsta')
+let respostaEsta = document.querySelector('#respostaEsta')
 let pontos = 0
 let placar = 0
 
